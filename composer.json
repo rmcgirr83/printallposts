@@ -2,8 +2,8 @@
 	"name": "rmcgirr83/printallposts",
 	"type": "phpbb-extension",
 	"description": "This Extension will allow your members, if they have the print topic auth for the forum the topic is in, to be able to print view all the posts in a topic.",
-	"version": "1.0.0",
-	"time": "2020-08-29",
+	"version": "1.0.1",
+	"time": "2020-09-12",
 	"keywords": ["phpbb", "extension", "print all posts in a topic", "communication"],
 	"license": "GPL-2.0-only",
 	"authors": [
