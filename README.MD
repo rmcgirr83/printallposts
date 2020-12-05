@@ -3,7 +3,6 @@ Print all posts in a topic
 
 phpBB extension that allows your members, if they have the print topic auth for the forum the topic is in, to be able to print view all the posts in a topic.
 
-[![Build Status](https://travis-ci.com/rmcgirr83/printallposts.svg?branch=master)](https://travis-ci.com/rmcgirr83/printallposts)
 ## Installation
 
 ### 1. clone
