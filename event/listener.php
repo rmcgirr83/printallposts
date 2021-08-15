@@ -164,9 +164,9 @@ class listener implements EventSubscriberInterface
 			// Output the page
 			page_header($event['page_title'], true, $event['forum_id']);
 
-			$this->template->set_filenames(array(
-				'body' => 'viewtopic_print.html'
-			));
+			$this->template->set_filenames([
+				'body' => '@rmcgirr83_printallposts/viewtopic_printall.html'
+			]);
 
 			page_footer();
 		}
